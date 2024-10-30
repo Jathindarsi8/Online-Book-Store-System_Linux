@@ -29,7 +29,7 @@ var connection = mysql.createConnection(
     {
         host: "localhost",
         user: "root",
-        password: "1234",
+        password: "Jathin@0987",
         port: '3306',
         database: "online_book_store"
     }
